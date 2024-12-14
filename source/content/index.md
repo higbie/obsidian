@@ -1,5 +1,13 @@
 ---
-title: Living Wage Campaign History Project
+title: Memory Work | Los Angeles
 ---
 
-A test site to compile and research metadata associated with L.A. labor history collections.
+We are using this space to experiment with data models for our collections and research infrastructure projects.
+
+***Memory Work Los Angeles*** is a collaboration between labor unions, community organizations, activists, librarians, and researchers to reclaim the past, understand the present, and change the future of work and working people. Based in the [https://irle.ucla.edu/ UCLA Institute for Research on Labor and Employment], we document changing ways of work, worker organizing, and struggles to win equal treatment and full citizenship for all in our multi-racial society. We train UCLA students to be critical memory workers able to research and communicate evidence-based stories from the past that matter to our present. We celebrate and support the work of remembrance carried on by others and aim to inspire many ways of seeing the history around us. 
+
+The Memory Work project gathers historical projects supported by the IRLE, the Labor Center, and affiliated faculty over the past decade to support sustainable public memory activities focused on working people and their organizations in Los Angeles and Southern California. Adapting the Labor Center’s “research justice” model to historical and humanistic research, we aim to engage our community partners in a thoughtful process of collecting, preserving, and sharing the rich history of organizing in our region because we believe this history is a powerful resource for democratic engagement in a multi-racial society.  
+
+Careful description of digital collections facilitates access for public audiences and community partners, aids our curatorial workflow, and creates a new resource for future research. We document the development of our data model below, and will periodically issue new versions. 
+
+Our approach is inspired by linked open data projects such as [https://docs.enslaved.org/ Enslaved: Peoples of the Historical Slave Trade], the [https://blackbibliog.org/about/ Black Bibliography Project], and [https://artbase.rhizome.org/wiki/Main%20Page Rhizome Artbase], and [https://database.factgrid.de/wiki/Main_Page FactGrid wikibase] among others. We also draw from the lessons of previous data projects collected in on the site [https://socialjusticehistory.org/projects/networkedlabor/ Networked Labor], particularly the American Labor Who’s Who (ALWW) and related project. We aim to adapt the lessons of these projects to our evolving practice of collecting, curating, and sharing the history and memory of social justice organizing and organizers in Southern California.
