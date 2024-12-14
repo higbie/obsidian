@@ -1,8 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Living Wage Campaign History Project
 ---
 
-Hello world!
-
-Write some words here!
-[[HERE Local 11]]
+A test site to compile and research metadata associated with L.A. labor history collections.
