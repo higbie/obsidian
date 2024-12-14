@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "places/Liberty Hill Foundation Office.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Liberty Hill Foundation Office"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "places/Liberty Hill Foundation Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Liberty Hill Foundation Office"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "places/Liberty Hill Foundation Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Liberty Hill Foundation Office"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "places/Liberty Hill Foundation Office.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Liberty Hill Foundation Office"
             }
           },
           {
@@ -192,16 +192,21 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "places/Double Tree Suites Hotel.md",
+    "places/Broadway at 1st.md",
+    "places/8th and Santee.md",
+    "places/3rd Street Promenade.md",
+    "organizations/ACORN .md",
+    "people/Al Cohen.md",
+    "index.md",
     "category-folder/index.md",
     "places/Loews Santa Monica.md",
     "places/United University Church.md",
     "places/Rodeo and Wilshire.md",
     "places/LIUNA Local 300 Hall.md",
     "places/HERE Local 11 Hall.md",
-    "places/8th and Santee.md",
     "places/LAANE Office.md",
     "places/Beverly Wilshire Hotel.md",
-    "places/Double Tree Suites Hotel.md",
     "places/UCLA Downtown Labor Center.md",
     "places/University of Southern California (McCarthy Quad).md",
     "places/Los Angeles International Airport (LAX).md",
@@ -213,11 +218,6 @@
     "places/Palisades Park.md",
     "places/IATSE Local B192 Hall.md",
     "places/California State Capitol.md",
-    "places/Sunset Blvd and Park Ave.md",
-    "places/Broadway at 1st.md",
-    "places/Consulate General of the Republic of Korea.md",
-    "places/UFCW Local 770 Hall.md",
-    "places/Century Plaza Hotel.md",
     "places",
     "people",
     "organizations",
