@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/index.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
@@ -192,6 +192,7 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "category-folder/index.md",
     "places/Loews Santa Monica.md",
     "places/United University Church.md",
     "places/Rodeo and Wilshire.md",
@@ -217,7 +218,6 @@
     "places/Consulate General of the Republic of Korea.md",
     "places/UFCW Local 770 Hall.md",
     "places/Century Plaza Hotel.md",
-    "places/Rodeo Summit Hotel.md",
     "places",
     "people",
     "organizations",
