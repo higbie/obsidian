@@ -4,9 +4,13 @@ variants: {{variants}}
 instance-of: {{instance-of}}
 location: {{location}}
 ---
-{{name-link}}
-Associated Event: {{event}}
-Place type: {{type-tag}}
-Associated Organization: 
-{{organization-link}}
-{{organization-tag}}
+## {{name-link}}
+
+**Place type:** {{type-tag}}
+
+**Associated Organizations:** 
+- {{organization-link}}
+- {{organization-tag}}
+
+**Associated Events:** 
+- {{event}}
