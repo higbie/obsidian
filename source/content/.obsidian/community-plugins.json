@@ -1,3 +1,6 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-map-view",
+  "dataview",
+  "obsidian-import-json"
 ]
