@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/coalition-architecture-organization.md",
-                "mode": "source",
+                "file": "organizations/Liberty Hill Foundation.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "coalition-architecture-organization"
+              "title": "Liberty Hill Foundation"
             }
           }
         ],
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,32 +201,32 @@
   },
   "active": "d2511270ef2e2fe8",
   "lastOpenFiles": [
-    "templates/coalition-architecture-place.md",
-    "templates/coalition-architecture-person.md",
-    "templates/coalition-architecture-organization.md",
-    "places/Beverly Wilshire Hotel.md",
-    "organizations/American Friends Service Committee.md",
-    "places/8th and Santee.md",
-    "organizations/ACORN .md",
-    "places/Broadway at 1st.md",
-    "organizations/Archdiocese of Los Angeles.md",
-    "people/Alex Padilla.md",
-    "Map of Documented Sites.md",
+    "organizations/LA County Board of Supervisors.md",
+    "organizations/LA City Council.md",
+    "organizations/I.A.T.S.E. local B192.md",
+    "organizations/ACORN.md",
     "index.md",
-    "places/HERE Local 11 Hall.md",
-    "places/Federal Building.md",
-    "places/3rd Street Promenade.md",
-    "places/University of Southern California (McCarthy Quad).md",
-    "places/Universal Studios.md",
-    "places/United University Church.md",
-    "places/UFCW Local 770 Hall.md",
-    "places/UCLA Downtown Labor Center.md",
-    "places/Sunset Blvd and Park Ave.md",
-    "places/SEIU-USWW Hall.md",
-    "places/Second Baptist Church.md",
-    "places/Santa Monica City Hall.md",
-    "places/SAJE Office.md",
-    "places/Rodeo Summit Hotel.md",
+    "organizations/Santa Monica City Council.md",
+    "organizations/LIUNA Local 300.md",
+    "organizations/C.A.U.S.E..md",
+    "organizations/CHIRLA.md",
+    "organizations/UCLA Labor Center.md",
+    "organizations/Strategic Actions for a Just Economy.md",
+    "organizations/Southern Christian Leadership Conference.md",
+    "organizations/Community Coalition.md",
+    "organizations/Los Angeles Coalition to End Hunger and Homelessness.md",
+    "organizations/Archdiocese of Los Angeles.md",
+    "organizations/Jewish Committee Against Sweatshops.md",
+    "organizations/Jewish Labor Committee.md",
+    "organizations/Liberty Hill Foundation.md",
+    "organizations/Southern California Ecumenical Council.md",
+    "organizations/American Friends Service Committee.md",
+    "organizations/Los Angeles Episcopal Diocese.md",
+    "organizations/Interfaith Worker Justice.md",
+    "organizations/Living Wage Coalition.md",
+    "organizations/UFCW Local 770.md",
+    "organizations/UNITE!.md",
+    "organizations/SEIU 660.md",
     "places",
     "people",
     "organizations",
