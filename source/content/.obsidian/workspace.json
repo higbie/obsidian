@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map of Documented Sites.md",
-                "mode": "preview",
+                "file": "templates/coalition-architecture-organization.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Map of Documented Sites"
+              "title": "coalition-architecture-organization"
             }
           }
         ],
@@ -202,9 +202,18 @@
   },
   "active": "d2511270ef2e2fe8",
   "lastOpenFiles": [
-    "index.md",
+    "templates/coalition-architecture-place.md",
+    "templates/coalition-architecture-person.md",
+    "templates/coalition-architecture-organization.md",
     "places/Beverly Wilshire Hotel.md",
+    "organizations/American Friends Service Committee.md",
+    "places/8th and Santee.md",
+    "organizations/ACORN .md",
+    "places/Broadway at 1st.md",
+    "organizations/Archdiocese of Los Angeles.md",
+    "people/Alex Padilla.md",
     "Map of Documented Sites.md",
+    "index.md",
     "places/HERE Local 11 Hall.md",
     "places/Federal Building.md",
     "places/3rd Street Promenade.md",
@@ -219,15 +228,6 @@
     "places/Santa Monica City Hall.md",
     "places/SAJE Office.md",
     "places/Rodeo Summit Hotel.md",
-    "places/Rodeo and Wilshire.md",
-    "places/Palisades Park.md",
-    "places/New Otani Hotel and Garden.md",
-    "places/Miramar Hotel.md",
-    "places/Los Angeles International Airport (LAX).md",
-    "places/Los Angeles County Supervisor.md",
-    "places/Los Angeles City Hall.md",
-    "places/Loews Santa Monica.md",
-    "places/Living Wage Coalition Office.md",
     "places",
     "people",
     "organizations",

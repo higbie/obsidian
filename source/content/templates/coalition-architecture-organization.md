@@ -7,3 +7,10 @@ end-date: {{end-date}}
 organization-type: {{organization-type}}
 VIAF: {{VIAF}}
 ---
+## {{name}}
+
+**Organization Type:** {{organization-type}}
+
+**Associated People:** {{person-link}}
+
+**Associated Events:** {{event}}
