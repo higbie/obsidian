@@ -4,12 +4,12 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #religious-or-faith-based-
+organization-type: #religious-or-faith-based
 VIAF: 
 ---
 ## Archdiocese of Los Angeles
 
-**Organization Type:** #religious-or-faith-based-
+**Organization Type:** #religious-or-faith-based
 
 **Associated People:** [[Tom Chabolla]], [[Pedro Villarroya]]
 

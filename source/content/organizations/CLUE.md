@@ -4,12 +4,12 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #religious-or-faith-based-
+organization-type: #religious-or-faith-based
 VIAF: 
 ---
 ## CLUE
 
-**Organization Type:** #religious-or-faith-based-
+**Organization Type:** #religious-or-faith-based
 
 **Associated People:** [[James Lawson Jr.]], [[Leonard Beerman]], [[Richard Gillett]], [[William Monroe Campbell]], [[Linda A. Lotz]], [[Jim Conn]], [[Marty Coleman]], [[Gene Boutellier]], [[Altagracia Perez]], [[Steven Carr Reuben]], [[Don Smith]], [[Bob Miller]], [[Susan Craig]], [[Frederick Borsch]], [[Neil Comess Daniels]], [[Pedro Villarroya]], [[William Delaney]], [[Bear Ride]], [[Bryan Ekland]], [[Alexia Salvatierra]], [[Vivian Rothstein]], [[Jarvis Johnson]], [[James Bolene]], [[Norman Copeland]], [[Judith Meyers]], [[Bridie Roberts]]
 
