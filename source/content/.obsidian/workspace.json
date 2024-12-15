@@ -196,16 +196,18 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "d2511270ef2e2fe8",
   "lastOpenFiles": [
+    "index.md",
+    "places/Beverly Wilshire Hotel.md",
     "Map of Documented Sites.md",
     "places/HERE Local 11 Hall.md",
     "places/Federal Building.md",
     "places/3rd Street Promenade.md",
-    "index.md",
     "places/University of Southern California (McCarthy Quad).md",
     "places/Universal Studios.md",
     "places/United University Church.md",
@@ -226,7 +228,6 @@
     "places/Los Angeles City Hall.md",
     "places/Loews Santa Monica.md",
     "places/Living Wage Coalition Office.md",
-    "places/LIUNA Local 300 Hall.md",
     "places",
     "people",
     "organizations",
