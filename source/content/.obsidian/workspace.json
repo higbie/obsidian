@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "147a0a2df4aef97c",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 10,
-                "mapCenter": {
-                  "lat": 34.055837247970366,
-                  "lng": -118.30347955226898
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
-            }
-          },
-          {
-            "id": "d2511270ef2e2fe8",
+            "id": "9f613468e22a6ce1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Liberty Hill Foundation.md",
-                "mode": "preview",
-                "source": true
+                "file": "organizations/Los Angeles County Federation of Labor.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Liberty Hill Foundation"
+              "title": "Los Angeles County Federation of Labor"
+            }
+          },
+          {
+            "id": "1454d6d49081b44c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -116,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/Liberty Hill Foundation Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Liberty Hill Foundation Office"
+              "title": "Backlinks"
             }
           },
           {
@@ -178,12 +165,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +186,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d2511270ef2e2fe8",
+  "active": "1454d6d49081b44c",
   "lastOpenFiles": [
+    "organizations/Los Angeles County Federation of Labor.md",
+    "organizations/UNITE HERE Local 11.md",
+    "organizations/HERE Local 11.md",
+    "index.md",
+    "Map of Documented Sites.md",
+    "organizations/Liberty Hill Foundation.md",
     "organizations/LA County Board of Supervisors.md",
     "organizations/LA City Council.md",
     "organizations/I.A.T.S.E. local B192.md",
     "organizations/ACORN.md",
-    "index.md",
     "organizations/Santa Monica City Council.md",
     "organizations/LIUNA Local 300.md",
     "organizations/C.A.U.S.E..md",
@@ -218,15 +210,10 @@
     "organizations/Archdiocese of Los Angeles.md",
     "organizations/Jewish Committee Against Sweatshops.md",
     "organizations/Jewish Labor Committee.md",
-    "organizations/Liberty Hill Foundation.md",
     "organizations/Southern California Ecumenical Council.md",
     "organizations/American Friends Service Committee.md",
     "organizations/Los Angeles Episcopal Diocese.md",
     "organizations/Interfaith Worker Justice.md",
-    "organizations/Living Wage Coalition.md",
-    "organizations/UFCW Local 770.md",
-    "organizations/UNITE!.md",
-    "organizations/SEIU 660.md",
     "places",
     "people",
     "organizations",

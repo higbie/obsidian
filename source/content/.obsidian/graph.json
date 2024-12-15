@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"instance-of\":organization]",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "[\"instance-of\":person]",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "[\"instance-of\":place]",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "[\"instance-of\":collection]",
+      "color": {
+        "a": 1,
+        "rgb": 6066646
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.68927001953125,
+  "lineSizeMultiplier": 1.92374267578125,
+  "collapse-forces": false,
+  "centerStrength": 0.4117431640625,
+  "repelStrength": 12.7213541666667,
+  "linkStrength": 0.821980794270833,
+  "linkDistance": 258,
+  "scale": 0.5104838363444484,
+  "close": true
+}
