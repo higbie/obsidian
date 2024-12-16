@@ -2,7 +2,7 @@
 title: Los Angeles Labor Lexicon
 ---
 
-We are using this space to experiment with data models for our collections and research infrastructure projects. You can navigate through the data using the Explorer menu on the left sidebar (collections, organizations, people, and places) and by clicking on links you find. The Graph View (top right) displays links between pages. Or, you can view the main categories of pages: [[collections]], [[organizations]], [[people]], and [[places]].
+We are using this space to experiment with data models for our collections and research infrastructure projects. You can navigate through the data using the Explorer menu on the left sidebar (collections, organizations, people, and places) and by clicking on links you find. The Graph View (top right) displays links between pages. Or, you can view the main categories of pages: [[content/collections]], [[content/organizations]], [[content/people]], and [[content/places]].
 
 ***Memory Work Los Angeles*** is a collaboration between labor unions, community organizations, activists, librarians, and researchers to reclaim the past, understand the present, and change the future of work and working people. Based in the [UCLA Institute for Research on Labor and Employment](https://irle.ucla.edu/), we document changing ways of work, worker organizing, and struggles to win equal treatment and full citizenship for all in our multi-racial society. We train UCLA students to be critical memory workers able to research and communicate evidence-based stories from the past that matter to our present. We celebrate and support the work of remembrance carried on by others and aim to inspire many ways of seeing the history around us. 
 
