@@ -1,5 +1,5 @@
 ---
-title: Memory Work | Los Angeles
+title: Los Angeles Labor Lexicon
 ---
 
 We are using this space to experiment with data models for our collections and research infrastructure projects. You can navigate through the data using the Explorer menu on the left sidebar (collections, organizations, people, and places) and by clicking on links you find. The Graph View (top right) displays links between pages. Or, you can view the main categories of pages: [[collections]], [[organizations]], [[people]], and [[places]].
