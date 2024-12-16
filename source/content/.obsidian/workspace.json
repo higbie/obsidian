@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "ed1a1223f67ae36f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,6 +197,16 @@
             "id": "a9f8fb292b057412",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "00b7481f3cb08769",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -194,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,10 +235,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1447154ff21377f7",
+  "active": "ed1a1223f67ae36f",
   "lastOpenFiles": [
-    "Map of Documented Sites.md",
+    "organizations/UNITE HERE Local 11.md",
     "index.md",
+    "Map of Documented Sites.md",
     "people/Alejandro Stephens.md",
     "places/3rd Street Promenade.md",
     "organizations/Southern Christian Leadership Conference.md",
@@ -233,7 +254,6 @@
     "collections/Los Angeles County Federation of Labor Collection.md",
     "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
     "organizations/Los Angeles County Federation of Labor.md",
-    "organizations/UNITE HERE Local 11.md",
     "organizations/Liberty Hill Foundation.md",
     "organizations/LA County Board of Supervisors.md",
     "organizations/LA City Council.md",
