@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Memory Work | Los Angeles",
-    pageTitleSuffix: "Documenting worker organizing in our multi-racial society.",
+    pageTitleSuffix: ,
     enableSPA: true,
     enablePopovers: true,
     analytics: {

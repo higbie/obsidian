@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Southern Christian Leadership Conference.md",
+                "file": "people/Alejandro Stephens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Southern Christian Leadership Conference"
+              "title": "Alejandro Stephens"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Southern Christian Leadership Conference.md",
+                "file": "people/Alejandro Stephens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Southern Christian Leadership Conference"
+              "title": "Backlinks for Alejandro Stephens"
             }
           },
           {
@@ -205,8 +205,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "1447154ff21377f7",
   "lastOpenFiles": [
+    "places/3rd Street Promenade.md",
+    "index.md",
+    "organizations/Southern Christian Leadership Conference.md",
     "organizations/Southern California Ecumenical Council.md",
     "organizations/Los Angeles Episcopal Diocese.md",
     "organizations/Jewish Committee Against Sweatshops.md",
@@ -214,7 +217,6 @@
     "organizations/CLUE.md",
     "organizations/Archdiocese of Los Angeles.md",
     "organizations/American Friends Service Committee.md",
-    "index.md",
     "organizations/HERE Local 11.md",
     "collections/Los Angeles County Federation of Labor Collection.md",
     "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
@@ -231,8 +233,6 @@
     "organizations/C.A.U.S.E..md",
     "organizations/CHIRLA.md",
     "organizations/UCLA Labor Center.md",
-    "organizations/Strategic Actions for a Just Economy.md",
-    "organizations/Southern Christian Leadership Conference.md",
     "places",
     "people",
     "organizations",
