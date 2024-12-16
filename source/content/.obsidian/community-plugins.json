@@ -3,5 +3,6 @@
   "obsidian-map-view",
   "dataview",
   "obsidian-import-json",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "graph-analysis"
 ]
