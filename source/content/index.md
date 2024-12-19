@@ -1,13 +1,17 @@
 ---
 title: Los Angeles Labor Lexicon
 ---
+***Labor Lexicon*** is a work in progress. We are using this space to experiment with data models for our collections and research infrastructure projects. You can navigate through the data using the Explorer menu on the left sidebar (collections, organizations, people, and places) and by clicking on links you find. The Graph View (top right) displays links between pages. For background on this project check out [[About Memory Work Los Angeles]]
 
-We are using this space to experiment with data models for our collections and research infrastructure projects. You can navigate through the data using the Explorer menu on the left sidebar (collections, organizations, people, and places) and by clicking on links you find. The Graph View (top right) displays links between pages. 
+#### Organizations by Affiliated People
+```dataview
+table file.inlinks AS "Associated People"
+from "organizations"
+```
 
-***Memory Work Los Angeles*** is a collaboration between labor unions, community organizations, activists, librarians, and researchers to reclaim the past, understand the present, and change the future of work and working people. Based in the [UCLA Institute for Research on Labor and Employment](https://irle.ucla.edu/), we document changing ways of work, worker organizing, and struggles to win equal treatment and full citizenship for all in our multi-racial society. We train UCLA students to be critical memory workers able to research and communicate evidence-based stories from the past that matter to our present. We celebrate and support the work of remembrance carried on by others and aim to inspire many ways of seeing the history around us. 
 
-The Memory Work project gathers historical projects supported by the IRLE, the Labor Center, and affiliated faculty over the past decade to support sustainable public memory activities focused on working people and their organizations in Los Angeles and Southern California. Adapting the Labor Center’s “research justice” model to historical and humanistic research, we aim to engage our community partners in a thoughtful process of collecting, preserving, and sharing the rich history of organizing in our region because we believe this history is a powerful resource for democratic engagement in a multi-racial society.  
-
-Careful description of digital collections facilitates access for public audiences and community partners, aids our curatorial workflow, and creates a new resource for future research. We document the development of our data model below, and will periodically issue new versions. 
-
-Our approach is inspired by linked open data projects such as [Enslaved: Peoples of the Historical Slave Trade](https://docs.enslaved.org/), the [Black Bibliography Project](https://blackbibliog.org/about/), [Rhizome Artbase](https://artbase.rhizome.org/wiki/Main%20Page), and [FactGrid wikibase](https://database.factgrid.de/wiki/Main_Page ) among others. We also draw from the lessons of previous data projects collected in on the site [Networked Labor](https://socialjusticehistory.org/projects/networkedlabor/), particularly the American Labor Who’s Who (ALWW) and related projects. We aim to adapt the lessons of these projects to our evolving practice of collecting, curating, and sharing the history and memory of social justice organizing and organizers in Southern California.
+#### People by Affiliated Organization
+```dataview 
+table file.inlinks AS "Associated Organizations"
+from "people"
+```

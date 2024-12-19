@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Los Angeles County Federation of Labor.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Los Angeles County Federation of Labor"
+              "title": "index"
+            }
+          },
+          {
+            "id": "725bb5f602c1b8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -29,7 +43,7 @@
               "state": {
                 "file": "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Abraham Abbott Kaplan Papers, 1947-1966"
@@ -43,7 +57,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -53,6 +67,20 @@
             "id": "ed1a1223f67ae36f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/American Friends Service Committee.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "American Friends Service Committee"
+            }
+          },
+          {
+            "id": "f38dbad5139de2d2",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -60,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,6 +235,16 @@
             "id": "00b7481f3cb08769",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "593253bdd11936e1",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -214,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -235,11 +273,24 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ed1a1223f67ae36f",
+  "active": "725bb5f602c1b8b5",
   "lastOpenFiles": [
-    "organizations/UNITE HERE Local 11.md",
+    "About Memory Work Los Angeles.md",
     "index.md",
+    "places/Beverly Wilshire Hotel.md",
+    "people/Al Cohen.md",
+    "organizations/ACORN.md",
+    "organizations/American Friends Service Committee.md",
+    "organizations/AFL-CIO.md",
+    "people/Vivian Rothstein.md",
+    "organizations/CLUE.md",
+    "places/Sunset Blvd and Park Ave.md",
     "Map of Documented Sites.md",
+    "organizations/Los Angeles County Federation of Labor.md",
+    "people/Maria Elena Durazo.md",
+    "people/Dolores Huerta.md",
+    "places/Second Baptist Church.md",
+    "organizations/UNITE HERE Local 11.md",
     "people/Alejandro Stephens.md",
     "places/3rd Street Promenade.md",
     "organizations/Southern Christian Leadership Conference.md",
@@ -247,22 +298,9 @@
     "organizations/Los Angeles Episcopal Diocese.md",
     "organizations/Jewish Committee Against Sweatshops.md",
     "organizations/Interfaith Worker Justice.md",
-    "organizations/CLUE.md",
     "organizations/Archdiocese of Los Angeles.md",
-    "organizations/American Friends Service Committee.md",
     "organizations/HERE Local 11.md",
     "collections/Los Angeles County Federation of Labor Collection.md",
-    "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
-    "organizations/Los Angeles County Federation of Labor.md",
-    "organizations/Liberty Hill Foundation.md",
-    "organizations/LA County Board of Supervisors.md",
-    "organizations/LA City Council.md",
-    "organizations/I.A.T.S.E. local B192.md",
-    "organizations/ACORN.md",
-    "organizations/Santa Monica City Council.md",
-    "organizations/LIUNA Local 300.md",
-    "organizations/C.A.U.S.E..md",
-    "organizations/CHIRLA.md",
     "places",
     "people",
     "organizations",
