@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #legislature
+organization-type: legislature
 VIAF: 
 ---
 ## CA Assembly

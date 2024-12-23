@@ -4,12 +4,14 @@ variants:
 instance-of: person
 birth: 
 death: 
+member-of: ACORN
+has-occupation: activist, organizer--community
 VIAF: 
 ---
 ## Amy Schur
 
 **Occupation:** 
-- [[activist]], [[community organizer]]
+- #activist, #organizer--community
 
 **Associated organizations:** 
 - [[ACORN]]

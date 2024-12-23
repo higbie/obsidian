@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #advocacy-organization
+organization-type: advocacy-organization
 VIAF: 
 ---
 ## Los Angeles Coalition to End Hunger and Homelessness

@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"instance-of\":organization]",
@@ -25,20 +25,20 @@
       "query": "[\"instance-of\":collection]",
       "color": {
         "a": 1,
-        "rgb": 4358062
+        "rgb": 11392604
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1.23009440104167,
-  "lineSizeMultiplier": 1.58977864583333,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.957539876302083,
+  "lineSizeMultiplier": 1.74908447265625,
   "collapse-forces": false,
-  "centerStrength": 0.384684244791667,
-  "repelStrength": 10.4923502604167,
-  "linkStrength": 0.54296875,
-  "linkDistance": 146,
-  "scale": 0.29842030718248136,
-  "close": true
+  "centerStrength": 0.367350260416667,
+  "repelStrength": 6.01481119791667,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.811309968374902,
+  "close": false
 }

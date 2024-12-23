@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #organizing-network
+organization-type: organizing-network
 VIAF: 
 ---
 ## Community Coalition

@@ -4,12 +4,14 @@ variants:
 instance-of: person
 birth: 
 death: 
+member-of: LAANE
+has-occupation: organizer--community
 VIAF: 
 ---
 ## Sabrina Smith
 
 **Occupation:** 
-- [[community organizer]], [[policy director]]
+- #organizer--community
 
 **Associated organizations:** 
 - [[LAANE]]

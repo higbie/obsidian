@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #political-party
+organization-type: political-party
 VIAF: 
 ---
 ## CA Democratic Party

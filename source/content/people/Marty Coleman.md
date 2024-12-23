@@ -4,12 +4,14 @@ variants:
 instance-of: person
 birth: 
 death: 
+member-of: CLUE
+has-occupation: organizer--interfaith
 VIAF: 
 ---
 ## Marty Coleman
 
 **Occupation:** 
-- [[interfaith outreach director]]
+- #organizer--interfaith
 
 **Associated organizations:** 
 - [[CLUE]]

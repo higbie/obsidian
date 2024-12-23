@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #advocacy-organization
+organization-type: advocacy-organization
 VIAF: 
 ---
 ## Strategic Actions for a Just Economy

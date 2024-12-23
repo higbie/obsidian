@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #union--local
+organization-type: union--local
 VIAF: 
 ---
 ## LIUNA Local 300

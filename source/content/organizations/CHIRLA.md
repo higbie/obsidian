@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #worker-center
+organization-type: worker-center
 VIAF: 
 ---
 ## CHIRLA
@@ -13,4 +13,4 @@ VIAF:
 
 **Associated People:** [[Victor Narro]]
 
-**Associated Events:** """Marching for Justice"" - Justice for Janitors at LAX "
+**Associated Events:** Marching for Justice - Justice for Janitors at LAX

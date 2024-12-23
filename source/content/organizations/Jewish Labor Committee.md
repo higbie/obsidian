@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #organizing-network
+organization-type: organizing-network
 VIAF: 
 ---
 ## Jewish Labor Committee
@@ -13,4 +13,4 @@ VIAF:
 
 **Associated People:** [[Rick Chertoff]]
 
-**Associated Events:** Holy Week in Beverly Hills ,"""Job Security is our Right!"" Rally at USC"
+**Associated Events:** Holy Week in Beverly Hills ,Job Security is our Right! Rally at USC

@@ -4,12 +4,14 @@ variants:
 instance-of: person
 birth: 
 death: 
+member-of: LAANE
+has-occupation: organizer--community
 VIAF: 
 ---
 ## Mario Valenzuela
 
 **Occupation:** 
-- [[community organizer]]
+- #organizer--community
 
 **Associated organizations:** 
 - [[LAANE]]

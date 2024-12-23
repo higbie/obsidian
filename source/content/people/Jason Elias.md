@@ -4,12 +4,14 @@ variants:
 instance-of: person
 birth: 
 death: 
+member-of: LAANE
+has-occupation: organizer
 VIAF: 
 ---
 ## Jason Elias
 
 **Occupation:** 
-- [[organizer]]
+- #organizer
 
 **Associated organizations:** 
 - [[LAANE]]

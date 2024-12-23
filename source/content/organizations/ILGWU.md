@@ -4,7 +4,7 @@ variants:
 instance-of: organization
 begin-date: 
 end-date: 
-organization-type: #union--international
+organization-type: union--international
 VIAF: 
 ---
 ## ILGWU

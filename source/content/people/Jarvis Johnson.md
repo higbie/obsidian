@@ -4,12 +4,14 @@ variants: Pastor Jarvis Johnson, Rev. Dr. Jarvis Johnson, Pastor (William) Jarvi
 instance-of: person
 birth: 
 death: 
+member-of: CLUE
+has-occupation: religious-leader
 VIAF: 
 ---
 ## Jarvis Johnson
 
 **Occupation:** 
-- [[religious leader]]
+- #religious-leader
 
 **Associated organizations:** 
 - [[CLUE]]
