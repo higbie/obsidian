@@ -89,10 +89,14 @@
             "id": "6b2b0cca4f618bc8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -364,6 +368,10 @@
   },
   "active": "6b2b0cca4f618bc8",
   "lastOpenFiles": [
+    "places/Beverly Wilshire Hotel.md",
+    "Map of Documented Sites.md",
+    "index.md",
+    "About Memory Work Los Angeles.md",
     "places/LIUNA Local 300 Hall.md",
     "places/Liberty Hill Foundation Office.md",
     "places/LAANE Office.md",
@@ -382,14 +390,10 @@
     "people/Al Cohen.md",
     "templates/coalition-architecture-collection.md",
     "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
-    "index.md",
     "places/IATSE Local B192 Hall.md",
     "places/3rd Street Promenade.md",
     "templates/coalition-architecture-place.md",
     "places/Miramar Hotel.md",
-    "places/Loews Santa Monica.md",
-    "places/Palisades Park.md",
-    "places/Santa Monica City Hall.md",
     "places",
     "people",
     "organizations",
