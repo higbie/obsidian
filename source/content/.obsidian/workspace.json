@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "templates/coalition-architecture-place.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "coalition-architecture-place"
             }
           },
           {
@@ -245,6 +245,46 @@
             "id": "593253bdd11936e1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e01e5d4c568f0189",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "04815ea924649fad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "64b5e54dd1e541c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bcdae976b59c4c97",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -252,7 +292,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -261,6 +301,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -275,8 +316,9 @@
   },
   "active": "725bb5f602c1b8b5",
   "lastOpenFiles": [
-    "About Memory Work Los Angeles.md",
+    "places/3rd Street Promenade.md",
     "index.md",
+    "About Memory Work Los Angeles.md",
     "places/Beverly Wilshire Hotel.md",
     "people/Al Cohen.md",
     "organizations/ACORN.md",
@@ -292,7 +334,6 @@
     "places/Second Baptist Church.md",
     "organizations/UNITE HERE Local 11.md",
     "people/Alejandro Stephens.md",
-    "places/3rd Street Promenade.md",
     "organizations/Southern Christian Leadership Conference.md",
     "organizations/Southern California Ecumenical Council.md",
     "organizations/Los Angeles Episcopal Diocese.md",
