@@ -4,12 +4,14 @@ variants: {{variants}}
 instance-of: {{instance-of}}
 birth: {{birth}}
 death: {{death}}
+member-of: {{member-of}}
+has-occupation: {{has-occupation}}
 VIAF: {{VIAF}}
 ---
 ## {{name}}
 
 **Occupation:** 
-- {{has-occupation}}
+- {{occupation-tag}}
 
 **Associated organizations:** 
-- {{member-of}}
+- {{member-of-link}}

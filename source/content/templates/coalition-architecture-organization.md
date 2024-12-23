@@ -9,7 +9,7 @@ VIAF: {{VIAF}}
 ---
 ## {{name}}
 
-**Organization Type:** {{organization-type}}
+**Organization Type:** {{organization-type-tag}}
 
 **Associated People:** {{person-link}}
 

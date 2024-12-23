@@ -22,27 +22,13 @@
             }
           },
           {
-            "id": "725bb5f602c1b8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/Liberty Hill Foundation Office.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Liberty Hill Foundation Office"
-            }
-          },
-          {
             "id": "1454d6d49081b44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -81,14 +67,18 @@
             "id": "f38dbad5139de2d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "templates/coalition-architecture-collection.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "coalition-architecture-collection"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -285,6 +275,36 @@
             "id": "bcdae976b59c4c97",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3fcb76b805c1ede6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "29e67422aecb9353",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1a658f3035123bef",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -292,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -314,8 +334,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "725bb5f602c1b8b5",
+  "active": "f38dbad5139de2d2",
   "lastOpenFiles": [
+    "collections/Abraham Abbott Kaplan Papers, 1947-1966.md",
+    "index.md",
+    "places/Liberty Hill Foundation Office.md",
     "places/LAANE Office.md",
     "places/IATSE Local B192 Hall.md",
     "places/3rd Street Promenade.md",
@@ -339,9 +362,6 @@
     "places/Sunset Blvd and Park Ave.md",
     "places/8th and Santee.md",
     "places/Broadway at 1st.md",
-    "places/Liberty Hill Foundation Office.md",
-    "places/New Otani Hotel and Garden.md",
-    "places/Consulate General of the Republic of Korea.md",
     "places",
     "people",
     "organizations",
